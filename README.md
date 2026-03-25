@@ -110,9 +110,10 @@ I build production-ready frontend systems that combine performance, scalability,
 </p>
 
 ---
-
-## 🐍 Contribution Snake
+## ⚡ Mindset
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" />
+I don’t just build interfaces — I engineer experiences. <br/>
+Focused on performance, scalability, and real-world impact.
 </p>
+
