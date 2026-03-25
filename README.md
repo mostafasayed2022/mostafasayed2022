@@ -47,10 +47,6 @@ I specialize in crafting modern frontend applications that combine performance, 
 - 🎯 Clean UX for accessibility (including special needs support)  
 - ⚡ Optimized performance  
 - 📱 Fully responsive design  
-
-🔗 Live Demo: [Add Link]  
-🔗 Repo: [Add Link]
-
 ---
 
 ### 🛒 E-Commerce Experience
