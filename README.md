@@ -15,16 +15,16 @@ Senior-level Frontend React Developer ⚛️ | UI/UX Designer 🎨
 ## 🧠 About Me
 
 <p align="center">
-I specialize in crafting modern frontend applications that combine performance, scalability, and exceptional user experience.
+I craft modern frontend applications focused on performance, scalability, and exceptional user experience.
 </p>
 
 <div align="center">
 
-⚛️ React Ecosystem Expert  
+⚛️ React Ecosystem Specialist  
 🎨 UI/UX Experience-Driven Development  
 ⚡ Performance Optimization & Clean Architecture  
-📱 Mobile-First & Responsive Systems  
-🚀 Real-world Production-Level Projects  
+📱 Mobile-First & Responsive Design  
+🚀 Production-Level Projects  
 
 </div>
 
@@ -40,22 +40,43 @@ I specialize in crafting modern frontend applications that combine performance, 
 
 ## 🚀 Featured Projects
 
-### 🧭 Daleel Platform
-> Smart service & course directory platform
+<div align="center">
 
-- 🔍 Advanced filtering & search system  
-- 🎯 Clean UX for accessibility (including special needs support)  
-- ⚡ Optimized performance  
-- 📱 Fully responsive design  
+### 🧭 Daleel Platform
+Smart service & course directory platform  
+🔍 Advanced filtering • 🎯 Clean UX • 📱 Responsive  
+
+---
+
+### 🏢 Elite Media House (Admin Dashboard)
+React.js + TypeScript Dashboard System  
+📊 Admin control panel • ⚡ Performance optimized • 🔐 Structured UI  
+
+---
+
+### 🏋️ Fit Genie (AI Gym System)
+Fitness tracking & smart insights platform  
+📈 UI for health tracking • 💪 User-friendly dashboard  
+
 ---
 
 ### 🛒 E-Commerce Experience
-> High-performance modern shopping platform
+Modern shopping web app  
+🛍 Cart system • ⚡ Fast UI • 🎨 Clean design  
 
-- 🛍 Smart cart system  
-- ⚡ Fast rendering & optimized components  
-- 🎨 Clean UI/UX  
-- 📦 Scalable state management  
+---
+
+### 🖼️ Image Editor (HTML, CSS, JS)
+Interactive image editing tool  
+🎨 Filters • 🖌️ Basic editing tools • ⚡ Real-time preview  
+
+---
+
+### ✅ To-Do List App (HTML, CSS, JS)
+Task management application  
+📝 Add / Delete tasks • 💾 Local storage • ⚡ Smooth UI  
+
+</div>
 
 ---
 
@@ -98,7 +119,7 @@ I specialize in crafting modern frontend applications that combine performance, 
 
 <p align="center">
 I don’t just build interfaces — I engineer experiences. <br/>
-Focused on performance, scalability, and delivering real impact.
+Focused on performance, scalability, and real-world impact.
 </p>
 
 ---
