@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Hi, I'm Mostafa Sayed</h1>
+<h1 align="center">🔥 Hi 👋, I'm Mostafa Sayed</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Senior-level+Frontend+React+Developer;UI%2FUX+Designer;Performance+Focused+Engineer;Building+Real+World+Products" />
