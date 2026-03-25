@@ -112,7 +112,7 @@ I build production-ready frontend systems that combine performance, scalability,
 ---
 ## ⚡ Mindset
 
-<p align="center">
+<p align="left">
 I don’t just build interfaces — I engineer experiences. <br/>
 Focused on performance, scalability, and real-world impact.
 </p>
