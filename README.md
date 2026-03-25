@@ -1,12 +1,12 @@
-<h1 align="center">👋 Hey, I'm Mostafa</h1>
-
-<h3 align="center">
-Senior-level Frontend React Developer ⚛️ | UI/UX Designer 🎨
-</h3>
+<h1 align="center">🔥 Mostafa Sayed</h1>
 
 <p align="center">
-🚀 Building fast, scalable & user-focused web experiences <br/>
-⚡ Performance-driven • 🎯 Clean UI/UX • 📱 Fully responsive <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Senior-level+Frontend+React+Developer;UI%2FUX+Designer;Performance+Focused+Engineer;Building+Real+World+Products" />
+</p>
+
+<p align="center">
+🚀 Crafting high-performance, scalable & user-focused web experiences <br/>
+🎯 Clean UI/UX • ⚡ Performance • 📱 Fully Responsive <br/>
 🌍 Egypt
 </p>
 
@@ -15,7 +15,7 @@ Senior-level Frontend React Developer ⚛️ | UI/UX Designer 🎨
 ## 🧠 About Me
 
 <p align="center">
-I craft modern frontend applications focused on performance, scalability, and exceptional user experience.
+I build production-ready frontend systems that combine performance, scalability, and exceptional user experience.
 </p>
 
 <div align="center">
@@ -23,8 +23,8 @@ I craft modern frontend applications focused on performance, scalability, and ex
 ⚛️ React Ecosystem Specialist  
 🎨 UI/UX Experience-Driven Development  
 ⚡ Performance Optimization & Clean Architecture  
-📱 Mobile-First & Responsive Design  
-🚀 Production-Level Projects  
+📱 Mobile-First Systems  
+🚀 Real-world Production Projects  
 
 </div>
 
@@ -32,86 +32,96 @@ I craft modern frontend applications focused on performance, scalability, and ex
 
 ## 🛠 Tech Arsenal
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,figma,html,css,redux,git,github" />
-</div>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 ### 🧭 Daleel Platform
 Smart service & course directory platform  
-🔍 Advanced filtering • 🎯 Clean UX • 📱 Responsive  
+🔍 Advanced filtering system  
+🎯 Clean UI/UX for accessibility  
+📱 Fully responsive  
+⚡ Optimized performance  
 
 ---
 
 ### 🏢 Elite Media House (Admin Dashboard)
-React.js + TypeScript Dashboard System  
-📊 Admin control panel • ⚡ Performance optimized • 🔐 Structured UI  
+React.js + TypeScript dashboard system  
+📊 Admin control panel  
+⚡ High performance UI  
+🔐 Structured & scalable design  
 
 ---
 
-### 🏋️ Fit Genie (AI Gym System)
-Fitness tracking & smart insights platform  
-📈 UI for health tracking • 💪 User-friendly dashboard  
+### 🏋️ Fit Genie (Gym System)
+Fitness tracking platform  
+📈 Health tracking UI  
+💪 User-friendly dashboard  
 
 ---
 
-### 🛒 E-Commerce Experience
-Modern shopping web app  
-🛍 Cart system • ⚡ Fast UI • 🎨 Clean design  
+### 🛒 E-Commerce Platform
+Modern shopping experience  
+🛍 Cart system  
+⚡ Fast rendering  
+🎨 Clean UI  
 
 ---
 
 ### 🖼️ Image Editor (HTML, CSS, JS)
-Interactive image editing tool  
-🎨 Filters • 🖌️ Basic editing tools • ⚡ Real-time preview  
+Interactive editing tool  
+🎨 Filters & tools  
+⚡ Real-time preview  
 
 ---
 
 ### ✅ To-Do List App (HTML, CSS, JS)
-Task management application  
-📝 Add / Delete tasks • 💾 Local storage • ⚡ Smooth UI  
-
-</div>
+Task manager app  
+📝 Add / Delete tasks  
+💾 Local storage  
+⚡ Smooth UX  
 
 ---
 
-## 📊 GitHub Performance
+## 📊 GitHub Power
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
-</div>
+</p>
 
 ---
 
-## 🎯 What Makes Me Different
+## 🧠 What Makes Me Different
 
-<div align="center">
+<p align="center">
 
-🧠 I think in systems, not just components  
-⚡ I optimize before problems happen  
-🎨 I design before I code  
-🚀 I build products, not just projects  
+I think in systems, not components ⚙️  
+I optimize before problems happen ⚡  
+I design before I code 🎨  
+I build products, not just projects 🚀  
 
-</div>
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  <a href="mailto:tofaahly738@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/mostafa-sayed-b97060211/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mostafa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+  <a href="https://www.facebook.com/tofa.ahlawy/">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -120,6 +130,12 @@ Task management application
 <p align="center">
 I don’t just build interfaces — I engineer experiences. <br/>
 Focused on performance, scalability, and real-world impact.
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
