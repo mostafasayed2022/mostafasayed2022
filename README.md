@@ -103,10 +103,15 @@ I build production-ready frontend systems that combine performance, scalability,
 
 ---
 
-## 👀 Profile Views
+## 🧠 What Makes Me Different
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+
+I think in systems, not components ⚙️  
+I optimize before problems happen ⚡  
+I design before I code 🎨  
+I build products, not just projects 🚀  
+
 </p>
 
 ---
