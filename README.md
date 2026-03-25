@@ -28,15 +28,6 @@ I build production-ready frontend systems that combine performance, scalability,
 
 ---
 
-## 📊 GitHub Dashboard
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ## ⚡ Coding Mode
 
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
